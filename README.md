@@ -1,5 +1,5 @@
-# SpatialTemporalProject
-**Data Science Spatial-Temporal Analysis Project**
+# Campus-Movement-Patterns
+**Data Science Project: Analyzing Campus Movement Patterns**
 
 This project conducts a spatial-temporal analysis of personal movement data, using location history exported from Google's **Timeline** feature on an Android device. The project explores weekly movement patterns, particularly within a college setting, by generating visualizations to understand typical routes and identify anomalies.
 
